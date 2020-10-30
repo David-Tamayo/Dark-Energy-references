@@ -12,7 +12,8 @@
 
 ### early DE
 
--[Unified framework for early dark energy from $\alpha$-attractors - Matteo Braglia et al. - 2020](https://inspirehep.net/literature/1798362)
+- [Unified framework for early dark energy from $\alpha$-attractors - Matteo Braglia et al. - 2020](https://inspirehep.net/literature/1798362)
+
 ### other models
 
 - [Metastable dark energy models in light of Planck 2018: Alleviating the $H_0$ tension - Weiqiang Yang, Eleonora Di Valentino, Supriya Pan, Spyros Basilakos and Andronikos Paliathanasis - 2020](https://inspirehep.net/literature/1775298)
