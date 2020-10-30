@@ -16,6 +16,8 @@
 
 ### other models
 
+- [Graduated dark energy: Observational hints of a spontaneous sign switch in the cosmological constant -Özgür Akarsu, John D. Barrow, Luis A. Escamilla and J. Alberto Vazquez - 2020](https://inspirehep.net/literature/1771583)
+
 - [Metastable dark energy models in light of Planck 2018: Alleviating the H0 tension - Weiqiang Yang, Eleonora Di Valentino, Supriya Pan, Spyros Basilakos and Andronikos Paliathanasis - 2020](https://inspirehep.net/literature/1775298)
 
-$\alpha$
+
