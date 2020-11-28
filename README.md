@@ -20,4 +20,4 @@
 
 - [Metastable dark energy models in light of Planck 2018: Alleviating the H0 tension - Weiqiang Yang, Eleonora Di Valentino, Supriya Pan, Spyros Basilakos and Andronikos Paliathanasis - 2020](https://inspirehep.net/literature/1775298)
 
-
+- [A varying Dark Energy effective speed of sound parameter in the phantom Universe - Imanol Albarran, Mariam Bouhmadi-López, João Marto - 2020](https://inspirehep.net/literature/1830602)
