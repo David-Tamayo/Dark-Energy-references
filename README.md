@@ -14,6 +14,8 @@
 
 - [Unified framework for early dark energy from  α-attractors - Matteo Braglia et al. - 2020](https://inspirehep.net/literature/1798362)
 
+- [Constraining early dark energy with large-scale structure - Mikhail M. Ivanov et al. -2020](https://inspirehep.net/literature/1802142)
+
 ### other models
 
 - [Graduated dark energy: Observational hints of a spontaneous sign switch in the cosmological constant -Özgür Akarsu, John D. Barrow, Luis A. Escamilla and J. Alberto Vazquez - 2020](https://inspirehep.net/literature/1771583)
