@@ -10,6 +10,10 @@
 
 - [Generalized tracker quintessence models for dark energy - L. Arturo Ureña-López and Nandan Roy - 2020](https://inspirehep.net/literature/1807743)
 
+### Interacting Dark Energy
+
+- [Cosmological perturbations in the interacting dark sector: Mapping fields and fluids - J. Johnson and S. Shankaranarayanan - 2020](https://inspirehep.net/literature/1799885)
+
 ### Early DE
 
 - [Unified framework for early dark energy from  α-attractors - Matteo Braglia et al. - 2020](https://inspirehep.net/literature/1798362)
@@ -23,6 +27,11 @@
 ### Logotropic DE
 
 - [The Logotropic Dark Fluid: Observational and Thermodynamic Constraints - Abdulla Al Mamon and Subhajit Saha - 2020](https://inspirehep.net/literature/1785955)
+
+### Emergent Dark Energy
+
+- [Evidence for Emergent Dark Energy - Xiaolei Li and Arman Shafieloo - 2020](https://inspirehep.net/literature/1775768)
+
 
 ### other models
 
