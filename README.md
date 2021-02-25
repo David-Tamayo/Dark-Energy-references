@@ -14,7 +14,7 @@
 
 - [Cosmological perturbations in the interacting dark sector: Mapping fields and fluids - J. Johnson and S. Shankaranarayanan - 2020](https://inspirehep.net/literature/1799885)
 
-- [Cosmological perturbations in the interacting dark sector: Observational constraints and predictions - J. Johnson, A. Sangwan and S. Shankaranarayanan1 - 2021](https://arxiv.org/abs/2102.12367)
+- [Cosmological perturbations in the interacting dark sector: Observational constraints and predictions - J. Johnson, A. Sangwan and S. Shankaranarayanan - 2021](https://arxiv.org/abs/2102.12367)
 
 ### Early DE
 
