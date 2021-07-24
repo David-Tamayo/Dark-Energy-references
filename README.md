@@ -16,9 +16,9 @@
 
 - [Cosmological perturbations in the interacting dark sector: Observational constraints and predictions - J. Johnson, A. Sangwan and S. Shankaranarayanan - 2021](https://arxiv.org/abs/2102.12367)
 
--[Cosmological constraints of interacting phantom dark energy models - Bouali, Albarran](https://inspirehep.net/literature/1853497)
+- [Cosmological constraints of interacting phantom dark energy models - Bouali, Albarran](https://inspirehep.net/literature/1853497)
 
--[Theoretical and observational bounds on some interacting vacuum energy scenarios - Weiqiang Yang, Supriya Pan, Llibert Aresté Saló, and Jaume de Haro](https://inspirehep.net/literature/1857595)
+- [Theoretical and observational bounds on some interacting vacuum energy scenarios - Weiqiang Yang, Supriya Pan, Llibert Aresté Saló, and Jaume de Haro](https://inspirehep.net/literature/1857595)
 
 ### Early DE
 
@@ -26,7 +26,7 @@
 
 - [Constraining early dark energy with large-scale structure - Mikhail M. Ivanov et al. -2020](https://inspirehep.net/literature/1802142)
 
--[Modeling and testing the equation of state for (Early) dark energy - Nojiri, Odintsov, Saez-Chillon, Sharov](https://inspirehep.net/literature/1850835)
+- [Modeling and testing the equation of state for (Early) dark energy - Nojiri, Odintsov, Saez-Chillon, Sharov](https://inspirehep.net/literature/1850835)
 
 ### Graduated DE
 
