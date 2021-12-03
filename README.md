@@ -28,6 +28,8 @@
 
 - [Modeling and testing the equation of state for (Early) dark energy - Nojiri, Odintsov, Saez-Chillon, Sharov](https://inspirehep.net/literature/1850835)
 
+- [New early dark energy - Florian Niedermann and Martin S. Sloth - 2021](https://inspirehep.net/literature/1760726)
+
 ### Graduated DE
 
 - [Graduated dark energy: Observational hints of a spontaneous sign switch in the cosmological constant -Özgür Akarsu, John D. Barrow, Luis A. Escamilla and J. Alberto Vazquez - 2020](https://inspirehep.net/literature/1771583)
